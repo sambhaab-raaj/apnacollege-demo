@@ -1,7 +1,7 @@
 # apnacollege-demo
 My first git repository.
 <br>
-author-Sambhaab Raaj Pattanaik
+author-Sambhaab Raaj Pattanaik(apna college)
 
 
 
